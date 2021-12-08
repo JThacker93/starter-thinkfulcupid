@@ -7,7 +7,7 @@ body {
 
 h2 {
   font-size: 26px;
-  font-weight: 400;
+  font-weight: 500;
   margin: 0 10px 15px 10px;
   text-align: center;
 }
@@ -65,9 +65,9 @@ header {
   color: #ecdbc9;
 }
 
-/* #menu {
+ #menu {
   display: flex;
-} */
+} 
 
 header nav {
   display: flex;
@@ -154,7 +154,7 @@ footer p {
   }
 
   .group {
-    align-items: center;
+    display: flex;
     flex-direction: row;
   }
 }
